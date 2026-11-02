@@ -53,15 +53,19 @@ Olá! Meu nome é **Erick Andrade**.
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Erickandrad07&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Erickandrad07&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do Erick Andrade"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickandrad07&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens utilizadas"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erickandrad07&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens utilizadas"/>
 
 </div>
+
+---
+
 
 ---
 
