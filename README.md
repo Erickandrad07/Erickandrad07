@@ -3,6 +3,16 @@
 
 # 👨‍💻 Erick Andrade
 
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/erick-andrade-7600a2235/">
+  <img src="https://img.shields.io/badge/EM_BUSCA_DE_ESTÁGIO-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="Em busca de estágio">
+</a>
+
+</div>
+
+
 ### 🚀 Tecnologia, desenvolvimento e aprendizado contínuo
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo!;Estudante+de+ADS;Explorando+o+mundo+da+tecnologia;Sempre+aprendendo+algo+novo!" alt="Apresentação animada"/>
@@ -21,35 +31,34 @@
 
 ---
 
-## 👨‍🚀 Sobre mim
 
-Olá! Meu nome é **Erick Andrade**.
+## 👨‍💻 Sobre mim
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**.
+Olá! Eu sou **Erick Andrade**! 👋
 
-💻 Tenho interesse em tecnologia, programação e desenvolvimento de soluções digitais.
+🎓 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória profissional na área de tecnologia.
 
-📚 Estou construindo meus conhecimentos através dos estudos e da prática.
+💻 Tenho interesse em compreender como os sistemas funcionam, explorar diferentes áreas da tecnologia e desenvolver soluções que contribuam para resolver problemas reais.
 
-🚀 Meu objetivo é continuar evoluindo, desenvolver projetos e adquirir experiência na área de tecnologia.
+📚 Estou em constante aprendizado, buscando fortalecer minha base em programação, lógica computacional, desenvolvimento de software e novas ferramentas.
+
+🚀 **Meu objetivo atual é conquistar uma oportunidade de estágio na área de tecnologia**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
+
+🤝 Valorizo a colaboração, a troca de conhecimentos e as oportunidades de desenvolvimento pessoal e profissional.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🎯 Meus objetivos profissionais
 
-<div align="center">
+- 💼 Conquistar meu primeiro estágio em tecnologia.
+- 💻 Desenvolver minhas habilidades técnicas e práticas.
+- 🔎 Conhecer diferentes áreas do desenvolvimento de sistemas.
+- 🛠️ Participar de projetos e desafios reais.
+- 📚 Aprender com profissionais e equipes experientes.
+- 🚀 Construir uma carreira sólida na área de tecnologia.
 
-### 🌐 Desenvolvimento Web
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tecnologias web"/>
-
-### ⚙️ Ferramentas de Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas"/>
-
-</div>
-
-> Tecnologias e ferramentas apresentadas como áreas de estudo e desenvolvimento.
 
 ---
 
@@ -114,21 +123,34 @@ Aqui você poderá acompanhar meus estudos, exercícios e aplicações práticas
 
 ---
 
+
 ## 🤝 Vamos nos conectar?
 
 <div align="center">
 
-Estou aberto a trocar conhecimentos, compartilhar experiências e colaborar em projetos.
+### 🚀 Em busca de uma oportunidade de estágio em tecnologia!
+
+Estou aberto a novas conexões, aprendizado,
+troca de experiências e oportunidades profissionais.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickandrad07)
+<a href="https://www.linkedin.com/in/erick-andrade-7600a2235/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Erick">
+</a>
+
+<a href="https://github.com/Erickandrad07">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub do Erick">
+</a>
 
 <br><br>
 
+**💙 Aprendendo hoje para construir o futuro!**
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Erickandrad07&color=0969da&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil"/>
 
-### 💙 Cada projeto é uma oportunidade de aprender algo novo! 🚀
-
 </div>
+
 
