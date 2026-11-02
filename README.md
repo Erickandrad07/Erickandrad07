@@ -54,6 +54,7 @@ Olá! Meu nome é **Erick Andrade**.
 ---
 
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -63,6 +64,9 @@ Olá! Meu nome é **Erick Andrade**.
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erickandrad07&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens utilizadas"/>
 
 </div>
+
+---
+
 
 ---
 
