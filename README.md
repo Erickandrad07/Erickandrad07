@@ -1,24 +1,37 @@
 
 <div align="center">
 
-# 👨‍💻 Olá, eu sou o Erick Andrade!
+# 👨‍💻 Erick Andrade
 
-### 🚀 Estudante de Análise e Desenvolvimento de Sistemas
+### 🚀 Tecnologia, desenvolvimento e aprendizado contínuo
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub!;Apaixonado+por+tecnologia;Aprendendo+e+evoluindo+sempre;Transformando+ideias+em+código!" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo!;Estudante+de+ADS;Explorando+o+mundo+da+tecnologia;Sempre+aprendendo+algo+novo!" alt="Apresentação animada"/>
+
+<br>
+
+![Desenvolvimento](https://img.shields.io/badge/DESENVOLVIMENTO-0969DA?style=for-the-badge)
+![Tecnologia](https://img.shields.io/badge/TECNOLOGIA-238636?style=for-the-badge)
+![Aprendizado](https://img.shields.io/badge/APRENDIZADO-8957E5?style=for-the-badge)
+
+<br>
+
+[![Repositórios](https://img.shields.io/badge/MEUS_REPOSITÓRIOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickandrad07?tab=repositories)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## 👨‍🚀 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 📍 São Paulo, Brasil
-- 💻 Explorando o universo da programação
-- 📚 Sempre buscando aprender novas tecnologias
-- 🚀 Desenvolvendo minhas habilidades através de projetos
-- 🎯 Objetivo: crescer profissionalmente na área de tecnologia
+Olá! Meu nome é **Erick Andrade**.
+
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**.
+
+💻 Tenho interesse em tecnologia, programação e desenvolvimento de soluções digitais.
+
+📚 Estou construindo meus conhecimentos através dos estudos e da prática.
+
+🚀 Meu objetivo é continuar evoluindo, desenvolver projetos e adquirir experiência na área de tecnologia.
 
 ---
 
@@ -28,13 +41,15 @@
 
 ### 🌐 Desenvolvimento Web
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tecnologias web" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tecnologias web"/>
 
-### ⚙️ Ferramentas
+### ⚙️ Ferramentas de Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas de desenvolvimento" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas"/>
 
 </div>
+
+> Tecnologias e ferramentas apresentadas como áreas de estudo e desenvolvimento.
 
 ---
 
@@ -42,34 +57,35 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Erickandrad07&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Erickandrad07&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickandrad07&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Erickandrad07&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickandrad07&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens utilizadas"/>
 
 </div>
 
 ---
 
-## 📂 Meus Projetos
+## 📂 Projetos em Destaque
 
-🚧 Estou construindo meu portfólio de projetos!
+### 🚀 Meu Portfólio
 
-Confira meus repositórios e acompanhe minha evolução:
+Estou desenvolvendo meus conhecimentos e organizando meus projetos no GitHub.
 
-[![Meus Repositórios](https://img.shields.io/badge/Meus_Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickandrad07?tab=repositories)
+Aqui você poderá acompanhar meus estudos, exercícios e aplicações práticas.
+
+📁 [Explorar meus repositórios](https://github.com/Erickandrad07?tab=repositories)
 
 ---
 
+## 🎯 No que estou focado
+
+- 📚 Aprofundar meus conhecimentos em programação.
+- 💻 Desenvolver projetos práticos.
+- 🧠 Melhorar minha lógica de programação.
+- 🛠️ Aprender novas ferramentas e tecnologias.
+- 🚀 Construir meu portfólio profissional.
+
+---
 
 ## 🐍 Minhas Contribuições
 
@@ -77,28 +93,34 @@ Confira meus repositórios e acompanhe minha evolução:
 
 ### 🐍 A cobrinha está comendo meus commits!
 
-![Snake animation](https://raw.githubusercontent.com/Erickandrad07/Erickandrad07/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Erickandrad07/Erickandrad07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Erickandrad07/Erickandrad07/output/github-contribution-grid-snake.svg">
+  <img alt="Animação Snake das contribuições"
+    src="https://raw.githubusercontent.com/Erickandrad07/Erickandrad07/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🌎 Onde me encontrar
+## 🤝 Vamos nos conectar?
 
 <div align="center">
+
+Estou aberto a trocar conhecimentos, compartilhar experiências e colaborar em projetos.
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickandrad07)
 
-</div>
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=Erickandrad07&color=0969da&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil"/>
 
-<div align="center">
-
-### 💙 Obrigado pela visita!
-
-**"Cada linha de código é mais um passo na minha evolução."**
-
-<img src="https://komarev.com/ghpvc/?username=Erickandrad07&color=blue&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
+### 💙 Cada projeto é uma oportunidade de aprender algo novo! 🚀
 
 </div>
+
