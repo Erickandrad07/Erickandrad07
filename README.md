@@ -70,13 +70,14 @@ Confira meus repositórios e acompanhe minha evolução:
 
 ---
 
+
 ## 🐍 Minhas Contribuições
 
 <div align="center">
 
-### 🕹️ A cobrinha está de olho nos meus commits!
+### 🐍 A cobrinha está comendo meus commits!
 
-<img src="https://raw.githubusercontent.com/Erickandrad07/Erickandrad07/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake das contribuições do GitHub" />
+![Snake animation](https://raw.githubusercontent.com/Erickandrad07/Erickandrad07/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
